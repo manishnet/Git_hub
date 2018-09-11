@@ -1,0 +1,26 @@
+﻿
+<form #employeedata="ngForm" (ngSubmit)="onClickSubmit(employeedata.value)">
+
+    <div class="form-group">
+        <label for="inputAddress">First Name</label>
+        <input type="text" class="form-control" id="inputAddress" name="firstName" placeholder="First Name"  ngModel>
+    </div>
+   
+    <div class="form-group">
+        <label for="inputAddress2">Last Name</label>
+        <input type="text" class="form-control" id="inputAddress2" name="lastName" placeholder="Last Name" ngModel>
+    </div>
+    <div class="form-group">
+        <label for="inputAddress2">Summery</label>
+        <input type="text" class="form-control" id="inputAddress2"  name="summery"  placeholder="Summery" ngModel>
+    </div>
+    <input type="submit" value="submit">
+</form>
+
+<!--<form #userlogin="ngForm" (ngSubmit)="onClickSubmit(userlogin.value)">
+    <input type="text" name="emailid" placeholder="emailid" ngModel>
+    <br />
+    <input type="password" name="passwd" placeholder="passwd" ngModel>
+    <br />
+    <input type="submit" value="submit">
+</form>-->
