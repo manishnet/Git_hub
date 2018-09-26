@@ -1,0 +1,6 @@
+E:\Demo\ThreadPool\ReadOnly\bin\Debug\ReadOnly.exe.config
+E:\Demo\ThreadPool\ReadOnly\bin\Debug\ReadOnly.exe
+E:\Demo\ThreadPool\ReadOnly\bin\Debug\ReadOnly.pdb
+E:\Demo\ThreadPool\ReadOnly\obj\Debug\ReadOnly.csproj.CoreCompileInputs.cache
+E:\Demo\ThreadPool\ReadOnly\obj\Debug\ReadOnly.exe
+E:\Demo\ThreadPool\ReadOnly\obj\Debug\ReadOnly.pdb

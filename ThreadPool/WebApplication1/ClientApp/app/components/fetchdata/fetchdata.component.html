@@ -1,0 +1,52 @@
+<h1>Weather forecast</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+<p *ngIf="!forecasts"><em>Loading...</em></p>
+<div>
+    <label>Summary: </label>
+    <select (change)="filterForeCasts($event.target.value)">
+        <option value="0">--All--</option>
+        <option *ngFor="let summary of summaries" value={{summary}}>
+            {{summary}}
+        </option>
+    </select>
+</div>
+<table class='table' *ngIf="forecasts">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Temp. (C)</th>
+            <th>Temp. (F)</th>
+            <th>Summary</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let forecast of forecasts">
+            <td>{{ forecast.userId }}</td>
+            <td>{{ forecast.fname }}</td>
+            <td>{{ forecast.lname }}</td>
+            <td>{{ forecasts.length }}</td>
+            <td>
+                <ul>
+                    <li [routerLinkActive]="['link-active']">
+                        <a [routerLink]="['/EditEmployee/1']">
+                            <span class='glyphicon glyphicon-th-list'></span> Edit
+                        </a>
+                    </li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li [routerLinkActive]="['link-active']">
+                        <a [routerLink]="['/EditEmployee/1']">
+                            <span class='glyphicon glyphicon-th-list'></span> Delete
+                        </a>
+                    </li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
