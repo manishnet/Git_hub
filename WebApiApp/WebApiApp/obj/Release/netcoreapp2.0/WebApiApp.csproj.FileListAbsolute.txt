@@ -1,0 +1,11 @@
+E:\Demo\WebApiApp\WebApiApp\bin\Release\netcoreapp2.0\WebApiApp.deps.json
+E:\Demo\WebApiApp\WebApiApp\bin\Release\netcoreapp2.0\WebApiApp.runtimeconfig.json
+E:\Demo\WebApiApp\WebApiApp\bin\Release\netcoreapp2.0\WebApiApp.runtimeconfig.dev.json
+E:\Demo\WebApiApp\WebApiApp\bin\Release\netcoreapp2.0\WebApiApp.dll
+E:\Demo\WebApiApp\WebApiApp\bin\Release\netcoreapp2.0\WebApiApp.pdb
+E:\Demo\WebApiApp\WebApiApp\obj\Release\netcoreapp2.0\WebApiApp.csprojResolveAssemblyReference.cache
+E:\Demo\WebApiApp\WebApiApp\obj\Release\netcoreapp2.0\WebApiApp.csproj.CoreCompileInputs.cache
+E:\Demo\WebApiApp\WebApiApp\obj\Release\netcoreapp2.0\WebApiApp.AssemblyInfoInputs.cache
+E:\Demo\WebApiApp\WebApiApp\obj\Release\netcoreapp2.0\WebApiApp.AssemblyInfo.cs
+E:\Demo\WebApiApp\WebApiApp\obj\Release\netcoreapp2.0\WebApiApp.dll
+E:\Demo\WebApiApp\WebApiApp\obj\Release\netcoreapp2.0\WebApiApp.pdb

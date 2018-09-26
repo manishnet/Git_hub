@@ -1,0 +1,5 @@
+E:\Demo\WebApiApp\WebApiApp
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebApiApp
+--content-root=E:\Demo\WebApiApp\WebApiApp
+--file=
