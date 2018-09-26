@@ -1,0 +1,15 @@
+E:\Demo\Authentication\Authentication
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Authentication
+--content-root=E:\Demo\Authentication\Authentication
+--file=E:\Demo\Authentication\Authentication\Views\Home\About.cshtml
+--file=E:\Demo\Authentication\Authentication\Views\Home\Contact.cshtml
+--file=E:\Demo\Authentication\Authentication\Views\Home\Index.cshtml
+--file=E:\Demo\Authentication\Authentication\Views\Login\RegisterUser.cshtml
+--file=E:\Demo\Authentication\Authentication\Views\Login\UserLogin.cshtml
+--file=E:\Demo\Authentication\Authentication\Views\Shared\Error.cshtml
+--file=E:\Demo\Authentication\Authentication\Views\Shared\_Layout.cshtml
+--file=E:\Demo\Authentication\Authentication\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\Demo\Authentication\Authentication\Views\User\UserHome.cshtml
+--file=E:\Demo\Authentication\Authentication\Views\_ViewImports.cshtml
+--file=E:\Demo\Authentication\Authentication\Views\_ViewStart.cshtml
